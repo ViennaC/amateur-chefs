@@ -9,6 +9,3 @@ I constructed HTML forms with front-end validation using JavaScript in order to 
 - PHP
 - MySQL
 - JavaScript
-
-## How to Use
-Download a zip of all of the files.
