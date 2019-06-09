@@ -1,0 +1,163 @@
+html {
+	margin: 2px 5% 2px 5%;	
+	height: 100%;
+}
+
+body {
+	position: relative;
+	font-family: Verdana, sans-serif;
+	height: 100%;
+}
+
+a {
+	color: #7fa565;
+	text-decoration: none;
+}
+
+li  a {
+	color: black;
+}
+
+input[type="button"], .button {
+	background-color: #7fa565; 
+	  border: none;
+	  margin-top: 15px;
+	  padding:5px;
+	  margin-right: 10px;
+	  color: white;
+	  text-align: center;
+	  font-size: 12pt;
+	  width: 75px;
+	  text-align: center;
+}
+
+.header img {
+	float: left;
+	height: 175px;
+}
+
+.footer a{
+	text-decoration: underline;
+}
+
+.header {
+	height: 175px;
+	width: 100%;
+}
+
+.navBar a {
+	color: white;
+	text-decoration: none;
+}
+
+.header h2 {
+	position: relative;
+	top: 50px;
+	left: -20px;
+	color: #7fa565;
+	font-size: 34pt;
+	font-weight: normal;
+}
+
+h3 {
+	color: #7fa565;
+	font-size: 20pt;
+	font-weight: normal;
+}
+
+.search {
+	position: relative;
+	top: 65px;
+	width: 25%;
+	height: 20px;
+	float: right;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 1px solid black;
+}
+
+.navBar {
+	position: relative;
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	background-color: #7fa565;
+}
+
+ul {
+	padding: 3px;
+	list-style-type: none;
+}
+
+.navBar li {
+	padding: 0px 6% 0px 6%;
+	color: white;
+	display: inline;
+}
+
+.navBar a:hover {
+	text-decoration: underline;
+}
+
+.aboutUs {
+	width: 70%;
+}
+
+.aboutUs p {
+	line-height: 30px;
+}
+
+.forum {
+	width: 70%;
+}
+
+.forum ul {
+	line-height: 40px;
+}
+
+.forum li {
+	font-weight: bold;
+	margin: 0px 0px 10px 25px;
+}
+
+.forum h4 {
+	text-decoration: underline;
+}
+
+.sideBar {
+	position: relative;
+	margin-top: 5px;
+	padding: 1px 4px 1px 4px;
+	width: 25%;
+	border-left: 1px solid #7fa565;
+	float: right;
+	height: 890px;
+	text-align: center;
+}
+
+.sideBar img {
+	border-radius: 10%;
+}
+
+.sideBarItem {
+	padding-bottom: 10px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	border-top: 1px solid #7fa565;
+	padding: 10px 0px 10px 0px;
+	top:1160px;
+	width: 100%;
+}
+
+form {
+	margin: auto;
+}
+
+.posts {
+        width: 45%;
+        display: inline-block;
+}
+

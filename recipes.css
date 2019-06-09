@@ -1,0 +1,156 @@
+html {
+	margin: 2px 5% 2px 5%;	
+	height: 100%;
+}
+
+body {
+	position: relative;
+	font-family: Verdana, sans-serif;
+	height: 100%;
+}
+
+a {
+	color: #7fa565;
+	text-decoration: none;
+}
+
+li  a {
+	color: black;
+}
+
+.mainHeader img {
+	float: left;
+	height: 175px;
+}
+
+.footer a{
+	text-decoration: underline;
+}
+
+.mainHeader {
+	height: 175px;
+	width: 100%;
+}
+
+.navBar a {
+	color: white;
+	text-decoration: none;
+}
+
+.mainHeader h2 {
+	position: relative;
+	top: 50px;
+	left: -20px;
+	color: #7fa565;
+	font-size: 34pt;
+	font-weight: normal;
+}
+
+h3 {
+	color: #7fa565;
+	font-size: 20pt;
+	font-weight: normal;
+}
+
+.search {
+	position: relative;
+	top: 65px;
+	width: 25%;
+	height: 20px;
+	float: right;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: 1px solid black;
+}
+
+.navBar {
+	position: relative;
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	background-color: #7fa565;
+}
+
+ul {
+	padding: 3px;
+	list-style-type: none;
+}
+
+.navBar li {
+	padding: 0px 6% 0px 6%;
+	color: white;
+	display: inline;
+}
+
+.navBar a:hover {
+	text-decoration: underline;
+}
+
+.recipesHeader {
+	text-align: center;
+}
+
+.footer {
+	position: relative;
+	text-align: center;
+	border-top: 1px solid #7fa565;
+	padding: 10px 0px 10px 0px;
+	top:100px;
+	width: 100%;
+}
+
+table {
+	margin: auto;
+	width: 500px;
+	text-align: center;
+}
+
+.title {
+	min-width: 100px;
+	max-width: 100px;
+}
+
+td {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+td img {
+	height: 100px;
+}
+
+.recipe:hover {
+	background-color: #edf2ed;
+}
+
+td input[type="text"] {
+	width: 500px;
+}
+
+.button {
+        background-color: #7fa565;
+        border: none;
+        padding:5px;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 12pt;
+        width: 15%;
+}
+
+
+.orderButton {
+    	background-color: #7fa565;
+        border: none;
+        margin-right:10px;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 12pt;
+        width: 110px;
+}
+
+.quantityInput {
+	min-width: 100px;
+	max-width: 150px;
+}

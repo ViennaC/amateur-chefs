@@ -1,0 +1,90 @@
+html {
+	margin: 2px 25% 2px 25%;
+
+}
+
+body {
+	font-family: Verdana, sans-serif;
+}
+
+a {
+	color: #7fa565;
+	text-decoration: underline;
+}
+
+h2 {
+	text-align: center;
+	color: #7fa565;
+	font-size: 25pt;
+	font-weight: normal;
+}
+
+h3 {
+	color: #7fa565;
+	font-size: 20pt;
+	font-weight: normal;
+}
+
+form {
+	padding-bottom: 50px;
+	line-height: 30px;
+}
+
+input, textarea {
+	width: 100%;
+	border: solid 1px #7fa565;
+}
+
+.contactDesc {
+	line-height: 30px;
+}
+
+.button {
+	margin: 10px;
+	background-color: #7fa565; 
+	border: none;
+	padding:5px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	width: 15%;
+}
+
+img {
+	border-radius: 50%;
+}
+
+ul {
+	list-style-type: none;
+	line-height: 40px;
+}
+
+li {
+	padding: 0px 6% 0px 6%;
+	display: inline;
+}
+
+li p {
+	position: relative;
+	float: right;
+	width: 75%;
+	height: 100px;
+	top: -25px;
+	line-height: 28px;
+}
+
+.description {
+	position: relative;
+	top: -100px;
+	margin-left: 150px;
+	line-height: 30px;
+}
+
+.footer{
+  position: absolute;
+  border-top: 1px solid #7fa565;
+  padding-top: 10px;
+  top:1115px;
+  width: 1400px;
+}
